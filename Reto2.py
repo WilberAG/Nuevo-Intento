@@ -1,0 +1,10 @@
+nombre=input("Digite su nombre: ")
+apellido=input("Digite su apellido: ")
+edad=input("Digite su edad: ")
+ciudad_de_procedencia=input("Digite su ciudad: ") 
+cedula=input("Digite su número de cédula: ")
+fecha_de_nacimiento=input("Digite su fecha de nacimiento: ")
+gustos_personales=input("Digite su gusto favorito: ")
+print("---------------------------------------------")
+
+print("Mi nombre es "+nombre+" "+apellido+",tengo "+edad+" años, nací el "+fecha_de_nacimiento+", soy de "+ciudad_de_procedencia+", Colombia, estoy identificado con la cedula de ciudadanía "+cedula+" y me gusta "+gustos_personales) 
